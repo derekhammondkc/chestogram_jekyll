@@ -5,14 +5,13 @@
     <description>Panda Panda Panda Panda</description>
     <link>http://127.0.0.1:4000/</link>
     <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Sep 2016 23:18:06 -0500</pubDate>
-    <lastBuildDate>Fri, 09 Sep 2016 23:18:06 -0500</lastBuildDate>
+    <pubDate>Fri, 09 Sep 2016 23:32:19 -0500</pubDate>
+    <lastBuildDate>Fri, 09 Sep 2016 23:32:19 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>so jekyll is pretty sweet</title>
-        <description>&lt;p&gt;“Find meaning. Distinguish melancholy from sadness. Go out for a walk. It doesn’t have to be a romantic walk in the park, spring at its most spectacular moment, flowers and smells and outstanding poetical imagery smoothly transferring you into another world. It doesn’t have to be a walk during which you’ll have multiple life epiphanies and discover meanings no other brain ever managed to encounter. Do not be afraid of spending quality time by yourself. Find meaning or don’t find meaning but ‘steal’ some time and give it freely and exclusively to your own self. Opt for privacy and solitude. That doesn’t make you antisocial or cause you to reject the rest of the world. But you need to breathe. And you need to be.” 
-― Albert Camus, Notebooks 1951-1959&lt;/p&gt;
+        <description>&lt;p&gt;What usually happens in the educational process is that the faculties are dulled, overloaded, stuffed and paralyzed so that by the time most people are mature they have lost their innate capabilities. R. Buckminster Fuller&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 01 Oct 2016 13:26:34 -0500</pubDate>
@@ -52,11 +51,7 @@
     
       <item>
         <title>My First Normal Post on Jekyll</title>
-        <description>&lt;p&gt;Steve Austin: Astronaut. A man barely alive. Gentlemen… we can rebuild him. We have the technology. We have the capability to make the world’s first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.&lt;/p&gt;
-
-&lt;p&gt;My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I’ve always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I’m a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it’s cold and I figured I’d keep better. Now I’m back in Manhattan. New York, this is your last chance!&lt;/p&gt;
-
-&lt;p&gt;Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have… then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn’t commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.&lt;/p&gt;
+        <description>&lt;p&gt;What? What? Oh, I’m sorry, I thought this was America!&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 15 Aug 2015 08:26:34 -0500</pubDate>
